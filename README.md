@@ -4,3 +4,4 @@
 3. Lorem Ipsum
 ## Teraz Gruby tekst
 *kursywa_text*
+dodanie opisu na potrzeby zadanie
